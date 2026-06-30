@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { Clock, FileText, ArrowRight, BrainCircuit, Activity, LineChart, Target, Star, Users } from "lucide-react";
+import { Clock, FileText, ArrowRight, BrainCircuit, Activity, LineChart, Target, Star, Users, Puzzle, PenTool } from "lucide-react";
 import { motion } from "framer-motion";
 import CountUp from "react-countup";
 import ParticlesBackground from "@/components/ui/particles-background";
@@ -47,6 +47,32 @@ export default function Home() {
       color: "bg-indigo-500/10",
       borderColor: "hover:border-indigo-500/50",
       shadowColor: "hover:shadow-indigo-500/10",
+    },
+    {
+      id: "kepribadian",
+      title: "Tes Kepribadian (SJT & EPPS)",
+      description: "Kenali profil kerjamu melalui simulasi kasus profesional. (Bukan alat diagnosis resmi)",
+      questions: "Bervariasi",
+      duration: "Tanpa Waktu",
+      icon: <Puzzle className="h-6 w-6 text-purple-500" />,
+      href: "/kepribadian",
+      badge: "Kepribadian",
+      color: "bg-purple-500/10",
+      borderColor: "hover:border-purple-500/50",
+      shadowColor: "hover:shadow-purple-500/10",
+    },
+    {
+      id: "wartegg",
+      title: "Tes Wartegg",
+      description: "Latihan proyektif melengkapi pola gambar di 8 kotak. (Bukan alat diagnosis resmi)",
+      questions: "8 Kotak",
+      duration: "15 Menit",
+      icon: <PenTool className="h-6 w-6 text-orange-500" />,
+      href: "/wartegg",
+      badge: "Proyektif",
+      color: "bg-orange-500/10",
+      borderColor: "hover:border-orange-500/50",
+      shadowColor: "hover:shadow-orange-500/10",
     }
   ];
 
@@ -234,7 +260,7 @@ export default function Home() {
             className="mx-auto grid max-w-5xl grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3"
           >
             {modules.map((modul) => (
-              <motion.div key={modul.id} variants={itemVariants}>
+              <motion.div key={modul.id} variants={itemVariants} className="h-full">
                 <Card className={`relative flex flex-col h-full overflow-hidden border-border/50 bg-card/40 backdrop-blur-sm transition-all duration-300 hover:-translate-y-2 ${modul.borderColor} ${modul.shadowColor} hover:shadow-xl`}>
                   {modul.badge && (
                     <div className="absolute top-0 right-0 z-10">
@@ -265,7 +291,7 @@ export default function Home() {
                     </div>
                   </CardContent>
                   <CardFooter className="pt-0 mt-auto">
-                    <Button asChild className="w-full group" variant={modul.badge ? "default" : "outline"}>
+                    <Button asChild className="w-full group" variant="default">
                       <Link href={modul.href}>
                         Mulai Latihan
                         <ArrowRight className="ml-2 h-4 w-4 opacity-70 group-hover:opacity-100 group-hover:translate-x-1 transition-all" />
