@@ -1,0 +1,217 @@
+[
+  {
+    "id": "matematika",
+    "nama": "Kemampuan Matematika & Numerik",
+    "deskripsi": "Tes kemampuan deret bilangan, aritmatika dasar, perbandingan, dan logika angka.",
+    "waktu_menit": 15,
+    "soal": [
+      {
+        "id": "mat_001",
+        "pertanyaan": "Lanjutkan deret: 2, 4, 8, 16, ...",
+        "pilihan": ["24", "32", "30", "20"],
+        "jawaban_benar": "32",
+        "pembahasan": "Setiap angka dikali 2 dari angka sebelumnya (16 x 2 = 32)."
+      },
+      {
+        "id": "mat_002",
+        "pertanyaan": "Jika x = 15 dan y = 45, berapakah persentase x terhadap y?",
+        "pilihan": ["25%", "30%", "33.33%", "45%"],
+        "jawaban_benar": "33.33%",
+        "pembahasan": "(15 / 45) x 100% = 1/3 x 100% = 33.33%."
+      },
+      {
+        "id": "mat_003",
+        "pertanyaan": "Harga sebuah kemeja diskon 20% menjadi Rp 120.000. Berapa harga awalnya?",
+        "pilihan": ["Rp 140.000", "Rp 150.000", "Rp 144.000", "Rp 160.000"],
+        "jawaban_benar": "Rp 150.000",
+        "pembahasan": "80% x Harga Awal = 120.000. Harga Awal = 120.000 / 0.8 = 150.000."
+      },
+      {
+        "id": "mat_004",
+        "pertanyaan": "1, 3, 6, 10, 15, ...",
+        "pilihan": ["21", "20", "18", "25"],
+        "jawaban_benar": "21",
+        "pembahasan": "Pola penambahan meningkat: +2, +3, +4, +5, lalu +6. Jadi 15 + 6 = 21."
+      },
+      {
+        "id": "mat_005",
+        "pertanyaan": "5 pekerja dapat menyelesaikan tugas dalam 12 hari. Jika dikerjakan 3 pekerja, berapa lama waktu yang dibutuhkan?",
+        "pilihan": ["18 hari", "20 hari", "25 hari", "30 hari"],
+        "jawaban_benar": "20 hari",
+        "pembahasan": "Perbandingan berbalik nilai: (5 x 12) / 3 = 60 / 3 = 20 hari."
+      }
+    ]
+  },
+  {
+    "id": "verbal",
+    "nama": "Kemampuan Verbal & Penalaran Logika",
+    "deskripsi": "Tes kemampuan bahasa, silogisme, sinonim, antonim, dan logika kata.",
+    "waktu_menit": 15,
+    "soal": [
+      {
+        "id": "verb_001",
+        "pertanyaan": "Sinonim dari kata EVOKASI adalah...",
+        "pilihan": ["Penggugah rasa", "Penilaian", "Perubahan", "Izin tinggal"],
+        "jawaban_benar": "Penggugah rasa",
+        "pembahasan": "Evokasi dalam KBBI berarti daya pendorong/penggugah rasa."
+      },
+      {
+        "id": "verb_002",
+        "pertanyaan": "Matahari : Siang = Bulan : ...",
+        "pilihan": ["Bintang", "Gelap", "Malam", "Langit"],
+        "jawaban_benar": "Malam",
+        "pembahasan": "Matahari identik dengan siang hari, Bulan identik dengan malam hari."
+      },
+      {
+        "id": "verb_003",
+        "pertanyaan": "Semua dokter berbaju putih. Budi bukan dokter.",
+        "pilihan": ["Budi berbaju putih", "Budi tidak berbaju putih", "Budi mungkin berbaju putih", "Tidak dapat ditarik kesimpulan"],
+        "jawaban_benar": "Tidak dapat ditarik kesimpulan",
+        "pembahasan": "Aturan silogisme: premis negatif pada minor tidak bisa menyimpulkan jika mayornya afirmatif universal tanpa batasan yang jelas."
+      },
+      {
+        "id": "verb_004",
+        "pertanyaan": "Antonim dari kata APRIORI adalah...",
+        "pilihan": ["Aposteriori", "Deduksi", "Empiris", "Asumsi"],
+        "jawaban_benar": "Aposteriori",
+        "pembahasan": "Apriori (sebelum mengetahui kondisi sebenarnya) berlawanan dengan Aposteriori (setelah melihat/mengalami)."
+      },
+      {
+        "id": "verb_005",
+        "pertanyaan": "Pilihlah kata yang tidak sekelompok dengan yang lain!",
+        "pilihan": ["Harimau", "Singa", "Serigala", "Sapi"],
+        "jawaban_benar": "Sapi",
+        "pembahasan": "Sapi adalah herbivora, sedangkan yang lainnya adalah karnivora."
+      }
+    ]
+  },
+  {
+    "id": "visual",
+    "nama": "Penalaran Visual & Pola",
+    "deskripsi": "Tes kemampuan spasial, rotasi gambar, dan kelanjutan pola.",
+    "waktu_menit": 10,
+    "soal": [
+      {
+        "id": "vis_001",
+        "pertanyaan": "Jika sebuah dadu standar (jumlah sisi berlawanan = 7) memiliki angka 3 di atas, angka berapa yang ada di bawah?",
+        "pilihan": ["2", "4", "5", "6"],
+        "jawaban_benar": "4",
+        "pembahasan": "Pada dadu standar, sisi yang berlawanan selalu berjumlah 7. Maka 7 - 3 = 4."
+      },
+      {
+        "id": "vis_002",
+        "pertanyaan": "Sebuah persegi dilipat dua secara diagonal, kemudian dipotong ujungnya. Jika dibuka, berapa banyak sudut yang terbentuk?",
+        "pilihan": ["4", "5", "6", "8"],
+        "jawaban_benar": "8",
+        "pembahasan": "Potongan pada sudut akan memotong ujung menjadi dua sudut baru di setiap titik lipatan."
+      },
+      {
+        "id": "vis_003",
+        "pertanyaan": "Bentuk 3D manakah yang dapat dibentuk dari jaring-jaring kubus T?",
+        "pilihan": ["Kubus sempurna", "Piramida", "Prisma", "Balok"],
+        "jawaban_benar": "Kubus sempurna",
+        "pembahasan": "Jaring-jaring bentuk T yang terdiri dari 6 persegi akan membentuk kubus."
+      },
+      {
+        "id": "vis_004",
+        "pertanyaan": "Sebuah jarum jam berputar 90 derajat searah jarum jam dari pukul 12. Pukul berapakah sekarang?",
+        "pilihan": ["Pukul 2", "Pukul 3", "Pukul 4", "Pukul 6"],
+        "jawaban_benar": "Pukul 3",
+        "pembahasan": "360 derajat dibagi 12 jam = 30 derajat per jam. 90 derajat berarti bergeser 3 jam."
+      },
+      {
+        "id": "vis_005",
+        "pertanyaan": "Manakah yang merupakan bayangan cermin dari kata 'PETA'?",
+        "pilihan": ["ATEP", "PET A", "ATƎꟼ", "PETA"],
+        "jawaban_benar": "ATƎꟼ",
+        "pembahasan": "Bayangan cermin membalik urutan huruf dari belakang dan membalikkan bentuk huruf itu sendiri secara horizontal."
+      }
+    ]
+  },
+  {
+    "id": "komputer",
+    "nama": "Pengetahuan Dasar Komputer",
+    "deskripsi": "Tes pemahaman MS Office, shortcut keyboard, dan keamanan data dasar.",
+    "waktu_menit": 10,
+    "soal": [
+      {
+        "id": "komp_001",
+        "pertanyaan": "Shortcut keyboard untuk melakukan 'Undo' adalah...",
+        "pilihan": ["Ctrl + Y", "Ctrl + Z", "Ctrl + X", "Ctrl + V"],
+        "jawaban_benar": "Ctrl + Z",
+        "pembahasan": "Ctrl+Z digunakan untuk Undo (membatalkan aksi terakhir)."
+      },
+      {
+        "id": "komp_002",
+        "pertanyaan": "Ekstensi file standar untuk Microsoft Excel adalah...",
+        "pilihan": [".doc", ".pdf", ".xlsx", ".ppt"],
+        "jawaban_benar": ".xlsx",
+        "pembahasan": "Mulai Office 2007, ekstensi standar Excel adalah .xlsx."
+      },
+      {
+        "id": "komp_003",
+        "pertanyaan": "Apa kepanjangan dari RAM?",
+        "pilihan": ["Read Access Memory", "Random Access Memory", "Run Access Memory", "Real Access Memory"],
+        "jawaban_benar": "Random Access Memory",
+        "pembahasan": "RAM adalah memori akses acak sementara pada komputer."
+      },
+      {
+        "id": "komp_004",
+        "pertanyaan": "Perangkat lunak yang berfungsi sebagai jembatan antara hardware dan software aplikasi adalah...",
+        "pilihan": ["Sistem Operasi", "Anti-virus", "Browser", "Driver"],
+        "jawaban_benar": "Sistem Operasi",
+        "pembahasan": "Sistem operasi bertugas mengelola resource hardware dan menyediakan layanan untuk aplikasi."
+      },
+      {
+        "id": "komp_005",
+        "pertanyaan": "CC (Carbon Copy) pada email digunakan untuk...",
+        "pilihan": ["Menyembunyikan penerima email", "Mengirim salinan email ke orang lain", "Melampirkan file dokumen", "Menandai email penting"],
+        "jawaban_benar": "Mengirim salinan email ke orang lain",
+        "pembahasan": "CC mengirimkan salinan email agar pihak lain mengetahui informasi tanpa harus membalas."
+      }
+    ]
+  },
+  {
+    "id": "bahasa_inggris",
+    "nama": "Bahasa Inggris",
+    "deskripsi": "Tes grammar, vocabulary, dan reading comprehension pendek.",
+    "waktu_menit": 10,
+    "soal": [
+      {
+        "id": "eng_001",
+        "pertanyaan": "If I ___ rich, I would buy a big house.",
+        "pilihan": ["am", "was", "were", "been"],
+        "jawaban_benar": "were",
+        "pembahasan": "Conditional type 2 (unreal present) selalu menggunakan 'were' untuk semua subjek."
+      },
+      {
+        "id": "eng_002",
+        "pertanyaan": "The meeting has been postponed ___ tomorrow.",
+        "pilihan": ["at", "until", "for", "in"],
+        "jawaban_benar": "until",
+        "pembahasan": "Postponed until berarti ditunda hingga waktu tertentu."
+      },
+      {
+        "id": "eng_003",
+        "pertanyaan": "Choose the correct spelling:",
+        "pilihan": ["Acommodation", "Accomodation", "Accommodation", "Acomodation"],
+        "jawaban_benar": "Accommodation",
+        "pembahasan": "Ejaan yang benar memiliki double 'c' dan double 'm'."
+      },
+      {
+        "id": "eng_004",
+        "pertanyaan": "He is looking forward ___ you.",
+        "pilihan": ["to meet", "to meeting", "meet", "meeting"],
+        "jawaban_benar": "to meeting",
+        "pembahasan": "Frasa 'look forward to' selalu diikuti oleh V-ing (gerund)."
+      },
+      {
+        "id": "eng_005",
+        "pertanyaan": "Synonym of 'Abundant' is...",
+        "pilihan": ["Scarce", "Rare", "Plentiful", "Empty"],
+        "jawaban_benar": "Plentiful",
+        "pembahasan": "Abundant berarti melimpah, sinonimnya adalah Plentiful."
+      }
+    ]
+  }
+]
