@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Clock, FileText, ArrowRight, BrainCircuit, Activity, LineChart, Target, Star, Users, Puzzle, PenTool } from "lucide-react";
-import { motion } from "framer-motion";
+import { motion, Variants } from "framer-motion";
 import CountUp from "react-countup";
 import ParticlesBackground from "@/components/ui/particles-background";
 
@@ -76,7 +76,7 @@ export default function Home() {
     }
   ];
 
-  const containerVariants = {
+  const containerVariants: Variants = {
     hidden: { opacity: 0 },
     show: {
       opacity: 1,
@@ -86,7 +86,7 @@ export default function Home() {
     }
   };
 
-  const itemVariants = {
+  const itemVariants: Variants = {
     hidden: { opacity: 0, y: 30 },
     show: { opacity: 1, y: 0, transition: { type: "spring", stiffness: 300, damping: 24 } }
   };
@@ -94,15 +94,15 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
       {/* Hero Section */}
-      <section className="relative w-full py-12 md:py-24 lg:py-32 xl:py-40 bg-slate-50 dark:bg-slate-900/20 overflow-hidden flex items-center justify-center min-h-[90vh]">
+      <section className="relative w-full py-12 md:py-24 lg:py-32 xl:py-40 overflow-hidden flex items-center justify-center min-h-[90vh]">
         {/* Particles Background */}
         <ParticlesBackground />
         
-        {/* Abstract Background Decoration */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-5xl h-[500px] opacity-30 dark:opacity-20 pointer-events-none">
-          <div className="absolute top-1/2 left-1/4 w-96 h-96 bg-primary/40 rounded-full blur-3xl mix-blend-multiply filter animate-blob"></div>
-          <div className="absolute top-1/2 right-1/4 w-96 h-96 bg-indigo-500/40 rounded-full blur-3xl mix-blend-multiply filter animate-blob animation-delay-2000"></div>
-          <div className="absolute -bottom-8 left-1/2 w-96 h-96 bg-emerald-500/40 rounded-full blur-3xl mix-blend-multiply filter animate-blob animation-delay-4000"></div>
+        {/* Abstract Background Decoration (Enhanced) */}
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-5xl h-[600px] opacity-40 dark:opacity-20 pointer-events-none">
+          <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-primary/30 rounded-full blur-3xl mix-blend-screen filter animate-blob"></div>
+          <div className="absolute top-1/3 right-1/4 w-96 h-96 bg-fuchsia-500/20 rounded-full blur-3xl mix-blend-screen filter animate-blob animation-delay-2000"></div>
+          <div className="absolute -bottom-8 left-1/3 w-[500px] h-[500px] bg-emerald-500/20 rounded-full blur-3xl mix-blend-screen filter animate-blob animation-delay-4000"></div>
         </div>
 
         <div className="container px-4 md:px-6 relative z-10 mx-auto">
@@ -261,19 +261,22 @@ export default function Home() {
           >
             {modules.map((modul) => (
               <motion.div key={modul.id} variants={itemVariants} className="h-full">
-                <Card className={`relative flex flex-col h-full overflow-hidden border-border/50 bg-card/40 backdrop-blur-sm transition-all duration-300 hover:-translate-y-2 ${modul.borderColor} ${modul.shadowColor} hover:shadow-xl`}>
+                <Card className={`group relative flex flex-col h-full overflow-hidden border border-border/40 bg-card/60 backdrop-blur-xl transition-all duration-500 hover:-translate-y-2 ${modul.borderColor} ${modul.shadowColor} premium-shadow premium-inner-shadow hover:shadow-2xl`}>
+                  {/* Hover Glow Behind Card */}
+                  <div className="absolute -inset-0.5 bg-gradient-to-br from-primary/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-[inherit] pointer-events-none -z-10 blur-xl"></div>
+                  
                   {modul.badge && (
                     <div className="absolute top-0 right-0 z-10">
-                      <div className="bg-primary text-primary-foreground text-xs font-bold px-3 py-1 rounded-bl-lg shadow-sm">
+                      <div className="bg-primary/90 backdrop-blur-md text-primary-foreground text-[10px] uppercase tracking-widest font-bold px-4 py-1.5 rounded-bl-xl shadow-sm">
                         {modul.badge}
                       </div>
                     </div>
                   )}
-                  <CardHeader className="pb-4">
-                    <div className={`w-12 h-12 rounded-xl flex items-center justify-center mb-4 ${modul.color} shadow-inner`}>
+                  <CardHeader className="pb-4 relative z-10">
+                    <div className={`w-12 h-12 rounded-2xl flex items-center justify-center mb-5 ${modul.color} shadow-inner transition-transform duration-500 group-hover:scale-110 group-hover:rotate-3`}>
                       {modul.icon}
                     </div>
-                    <CardTitle className="text-xl">{modul.title}</CardTitle>
+                    <CardTitle className="text-xl tracking-tight font-bold">{modul.title}</CardTitle>
                     <CardDescription className="text-sm mt-2 line-clamp-2">
                       {modul.description}
                     </CardDescription>
