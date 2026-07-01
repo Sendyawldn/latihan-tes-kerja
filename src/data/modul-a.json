@@ -67,183 +67,183 @@
       },
       {
         "id": "matematika_006",
-        "pertanyaan": "Berapakah hasil dari 72 + 42?",
+        "pertanyaan": "Berapakah hasil dari 25% dari 200?",
         "pilihan": [
-          "114",
-          "108",
-          "120",
-          "102"
+          "25",
+          "50",
+          "75",
+          "100"
         ],
-        "jawaban_benar": "114",
-        "pembahasan": "Pembahasan untuk soal matematika_006. Jawabannya adalah 114."
+        "jawaban_benar": "50",
+        "pembahasan": "Penjelasan yang tepat adalah: 50"
       },
       {
         "id": "matematika_007",
-        "pertanyaan": "Jika x = 21 dan y = 14, berapakah x * y?",
+        "pertanyaan": "Jika harga barang naik 20% dari Rp 50.000, berapa harga sekarang?",
         "pilihan": [
-          "294",
-          "245",
-          "196",
-          "343"
+          "Rp 55.000",
+          "Rp 60.000",
+          "Rp 65.000",
+          "Rp 70.000"
         ],
-        "jawaban_benar": "294",
-        "pembahasan": "Pembahasan untuk soal matematika_007. Jawabannya adalah 294."
+        "jawaban_benar": "Rp 60.000",
+        "pembahasan": "Penjelasan yang tepat adalah: Rp 60.000"
       },
       {
         "id": "matematika_008",
-        "pertanyaan": "Lanjutkan deret: 8, 10, 12, 14, ...",
+        "pertanyaan": "Sebuah segitiga memiliki alas 10 cm dan tinggi 12 cm. Berapa luasnya?",
         "pilihan": [
-          "16",
-          "15",
-          "17",
-          "18"
+          "60 cm2",
+          "120 cm2",
+          "22 cm2",
+          "30 cm2"
         ],
-        "jawaban_benar": "16",
-        "pembahasan": "Pembahasan untuk soal matematika_008. Jawabannya adalah 16."
+        "jawaban_benar": "60 cm2",
+        "pembahasan": "Penjelasan yang tepat adalah: 60 cm2"
       },
       {
         "id": "matematika_009",
-        "pertanyaan": "Berapakah hasil dari 108 + 63?",
+        "pertanyaan": "Jika 3x + 5 = 20, berapakah nilai x?",
         "pilihan": [
-          "171",
-          "162",
-          "180",
-          "153"
+          "3",
+          "4",
+          "5",
+          "6"
         ],
-        "jawaban_benar": "171",
-        "pembahasan": "Pembahasan untuk soal matematika_009. Jawabannya adalah 171."
+        "jawaban_benar": "5",
+        "pembahasan": "Penjelasan yang tepat adalah: 5"
       },
       {
         "id": "matematika_010",
-        "pertanyaan": "Jika x = 30 dan y = 20, berapakah x * y?",
+        "pertanyaan": "Jarak kota A dan B adalah 120 km. Jika sebuah mobil melaju 60 km/jam, berapa lama waktu tempuhnya?",
         "pilihan": [
-          "600",
-          "500",
-          "400",
-          "700"
+          "1.5 jam",
+          "2 jam",
+          "2.5 jam",
+          "3 jam"
         ],
-        "jawaban_benar": "600",
-        "pembahasan": "Pembahasan untuk soal matematika_010. Jawabannya adalah 600."
+        "jawaban_benar": "2 jam",
+        "pembahasan": "Penjelasan yang tepat adalah: 2 jam"
       },
       {
         "id": "matematika_011",
-        "pertanyaan": "Lanjutkan deret: 11, 13, 15, 17, ...",
+        "pertanyaan": "Berapa KPK dari 12 dan 15?",
         "pilihan": [
-          "19",
-          "18",
-          "20",
-          "21"
+          "30",
+          "45",
+          "60",
+          "90"
         ],
-        "jawaban_benar": "19",
-        "pembahasan": "Pembahasan untuk soal matematika_011. Jawabannya adalah 19."
+        "jawaban_benar": "60",
+        "pembahasan": "Penjelasan yang tepat adalah: 60"
       },
       {
         "id": "matematika_012",
-        "pertanyaan": "Berapakah hasil dari 144 + 84?",
+        "pertanyaan": "Berapa FPB dari 24 dan 36?",
         "pilihan": [
-          "228",
-          "216",
-          "240",
-          "204"
+          "6",
+          "8",
+          "12",
+          "18"
         ],
-        "jawaban_benar": "228",
-        "pembahasan": "Pembahasan untuk soal matematika_012. Jawabannya adalah 228."
+        "jawaban_benar": "12",
+        "pembahasan": "Penjelasan yang tepat adalah: 12"
       },
       {
         "id": "matematika_013",
-        "pertanyaan": "Jika x = 39 dan y = 26, berapakah x * y?",
+        "pertanyaan": "Sebuah kubus memiliki panjang rusuk 5 cm. Berapa volumenya?",
         "pilihan": [
-          "1014",
-          "845",
-          "676",
-          "1183"
+          "25 cm3",
+          "100 cm3",
+          "125 cm3",
+          "150 cm3"
         ],
-        "jawaban_benar": "1014",
-        "pembahasan": "Pembahasan untuk soal matematika_013. Jawabannya adalah 1014."
+        "jawaban_benar": "125 cm3",
+        "pembahasan": "Penjelasan yang tepat adalah: 125 cm3"
       },
       {
         "id": "matematika_014",
-        "pertanyaan": "Lanjutkan deret: 14, 16, 18, 20, ...",
+        "pertanyaan": "Peluang munculnya mata dadu genap pada pelemparan sebuah dadu adalah...",
         "pilihan": [
-          "22",
-          "21",
-          "23",
-          "24"
+          "1/2",
+          "1/3",
+          "1/4",
+          "1/6"
         ],
-        "jawaban_benar": "22",
-        "pembahasan": "Pembahasan untuk soal matematika_014. Jawabannya adalah 22."
+        "jawaban_benar": "1/2",
+        "pembahasan": "Penjelasan yang tepat adalah: 1/2"
       },
       {
         "id": "matematika_015",
-        "pertanyaan": "Berapakah hasil dari 180 + 105?",
+        "pertanyaan": "Jika rata-rata dari 4, 6, 8, dan x adalah 7. Berapakah x?",
         "pilihan": [
-          "285",
-          "270",
-          "300",
-          "255"
+          "8",
+          "9",
+          "10",
+          "11"
         ],
-        "jawaban_benar": "285",
-        "pembahasan": "Pembahasan untuk soal matematika_015. Jawabannya adalah 285."
+        "jawaban_benar": "10",
+        "pembahasan": "Penjelasan yang tepat adalah: 10"
       },
       {
         "id": "matematika_016",
-        "pertanyaan": "Jika x = 48 dan y = 32, berapakah x * y?",
+        "pertanyaan": "Berapa akar kuadrat dari 144?",
         "pilihan": [
-          "1536",
-          "1280",
-          "1024",
-          "1792"
+          "10",
+          "12",
+          "14",
+          "16"
         ],
-        "jawaban_benar": "1536",
-        "pembahasan": "Pembahasan untuk soal matematika_016. Jawabannya adalah 1536."
+        "jawaban_benar": "12",
+        "pembahasan": "Penjelasan yang tepat adalah: 12"
       },
       {
         "id": "matematika_017",
-        "pertanyaan": "Lanjutkan deret: 17, 19, 21, 23, ...",
+        "pertanyaan": "3/4 + 1/2 = ...",
         "pilihan": [
-          "25",
-          "24",
-          "26",
-          "27"
+          "4/6",
+          "5/4",
+          "3/8",
+          "1"
         ],
-        "jawaban_benar": "25",
-        "pembahasan": "Pembahasan untuk soal matematika_017. Jawabannya adalah 25."
+        "jawaban_benar": "5/4",
+        "pembahasan": "Penjelasan yang tepat adalah: 5/4"
       },
       {
         "id": "matematika_018",
-        "pertanyaan": "Berapakah hasil dari 216 + 126?",
+        "pertanyaan": "Sebuah lingkaran berjari-jari 7 cm. Berapa kelilingnya? (pi=22/7)",
         "pilihan": [
-          "342",
-          "324",
-          "360",
-          "306"
+          "22 cm",
+          "44 cm",
+          "88 cm",
+          "154 cm"
         ],
-        "jawaban_benar": "342",
-        "pembahasan": "Pembahasan untuk soal matematika_018. Jawabannya adalah 342."
+        "jawaban_benar": "44 cm",
+        "pembahasan": "Penjelasan yang tepat adalah: 44 cm"
       },
       {
         "id": "matematika_019",
-        "pertanyaan": "Jika x = 57 dan y = 38, berapakah x * y?",
+        "pertanyaan": "Umur ayah 3 kali umur anak. Selisih umur mereka 30 tahun. Umur ayah adalah...",
         "pilihan": [
-          "2166",
-          "1805",
-          "1444",
-          "2527"
+          "45 tahun",
+          "40 tahun",
+          "35 tahun",
+          "50 tahun"
         ],
-        "jawaban_benar": "2166",
-        "pembahasan": "Pembahasan untuk soal matematika_019. Jawabannya adalah 2166."
+        "jawaban_benar": "45 tahun",
+        "pembahasan": "Penjelasan yang tepat adalah: 45 tahun"
       },
       {
         "id": "matematika_020",
-        "pertanyaan": "Lanjutkan deret: 20, 22, 24, 26, ...",
+        "pertanyaan": "10, 20, 40, 80, ... Angka selanjutnya adalah?",
         "pilihan": [
-          "28",
-          "27",
-          "29",
-          "30"
+          "100",
+          "120",
+          "140",
+          "160"
         ],
-        "jawaban_benar": "28",
-        "pembahasan": "Pembahasan untuk soal matematika_020. Jawabannya adalah 28."
+        "jawaban_benar": "160",
+        "pembahasan": "Penjelasan yang tepat adalah: 160"
       }
     ]
   },
@@ -315,183 +315,183 @@
       },
       {
         "id": "verbal_006",
-        "pertanyaan": "Sinonim dari kata ke-6 adalah...",
+        "pertanyaan": "Sinonim dari kata TENTATIF adalah...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Pasti",
+          "Belum pasti",
+          "Sementara",
+          "Berubah"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_006. Jawabannya adalah A."
+        "jawaban_benar": "Belum pasti",
+        "pembahasan": "Penjelasan yang tepat adalah: Belum pasti"
       },
       {
         "id": "verbal_007",
-        "pertanyaan": "Antonim dari kata X-7 adalah...",
+        "pertanyaan": "Antonim dari kata PROMINEN adalah...",
         "pilihan": [
-          "K",
-          "L",
-          "M",
-          "N"
+          "Terkemuka",
+          "Biasa",
+          "Menonjol",
+          "Ahli"
         ],
-        "jawaban_benar": "K",
-        "pembahasan": "Pembahasan untuk soal verbal_007. Jawabannya adalah K."
+        "jawaban_benar": "Biasa",
+        "pembahasan": "Penjelasan yang tepat adalah: Biasa"
       },
       {
         "id": "verbal_008",
-        "pertanyaan": "Sinonim dari kata ke-8 adalah...",
+        "pertanyaan": "Mobil : Bensin = Pelari : ...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Sepatu",
+          "Lintasan",
+          "Makanan",
+          "Garis finish"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_008. Jawabannya adalah A."
+        "jawaban_benar": "Makanan",
+        "pembahasan": "Penjelasan yang tepat adalah: Makanan"
       },
       {
         "id": "verbal_009",
-        "pertanyaan": "Antonim dari kata X-9 adalah...",
+        "pertanyaan": "Semua mahasiswa lulus ujian. Sebagian mahasiswa mendapat nilai A. Kesimpulannya...",
         "pilihan": [
-          "K",
-          "L",
-          "M",
-          "N"
+          "Semua mahasiswa mendapat nilai A",
+          "Sebagian mahasiswa tidak lulus",
+          "Sebagian mahasiswa yang lulus tidak mendapat nilai A",
+          "Tidak ada kesimpulan"
         ],
-        "jawaban_benar": "K",
-        "pembahasan": "Pembahasan untuk soal verbal_009. Jawabannya adalah K."
+        "jawaban_benar": "Sebagian mahasiswa yang lulus tidak mendapat nilai A",
+        "pembahasan": "Penjelasan yang tepat adalah: Sebagian mahasiswa yang lulus tidak mendapat nilai A"
       },
       {
         "id": "verbal_010",
-        "pertanyaan": "Sinonim dari kata ke-10 adalah...",
+        "pertanyaan": "Sinonim dari kata PARADOKS adalah...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Pertentangan",
+          "Kesamaan",
+          "Kemiripan",
+          "Ketegasan"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_010. Jawabannya adalah A."
+        "jawaban_benar": "Pertentangan",
+        "pembahasan": "Penjelasan yang tepat adalah: Pertentangan"
       },
       {
         "id": "verbal_011",
-        "pertanyaan": "Antonim dari kata X-11 adalah...",
+        "pertanyaan": "Antonim dari kata DINAMIS adalah...",
         "pilihan": [
-          "K",
-          "L",
-          "M",
-          "N"
+          "Statis",
+          "Aktif",
+          "Pasif",
+          "Cepat"
         ],
-        "jawaban_benar": "K",
-        "pembahasan": "Pembahasan untuk soal verbal_011. Jawabannya adalah K."
+        "jawaban_benar": "Statis",
+        "pembahasan": "Penjelasan yang tepat adalah: Statis"
       },
       {
         "id": "verbal_012",
-        "pertanyaan": "Sinonim dari kata ke-12 adalah...",
+        "pertanyaan": "Pena : Tinta = Kuas : ...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Kanvas",
+          "Cat",
+          "Lukisan",
+          "Seniman"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_012. Jawabannya adalah A."
+        "jawaban_benar": "Cat",
+        "pembahasan": "Penjelasan yang tepat adalah: Cat"
       },
       {
         "id": "verbal_013",
-        "pertanyaan": "Antonim dari kata X-13 adalah...",
+        "pertanyaan": "Jika semua burung bisa terbang, dan penguin adalah burung, maka...",
         "pilihan": [
-          "K",
-          "L",
-          "M",
-          "N"
+          "Penguin tidak bisa terbang",
+          "Penguin bisa berenang",
+          "Penguin bisa terbang",
+          "Sebagian penguin terbang"
         ],
-        "jawaban_benar": "K",
-        "pembahasan": "Pembahasan untuk soal verbal_013. Jawabannya adalah K."
+        "jawaban_benar": "Penguin bisa terbang",
+        "pembahasan": "Penjelasan yang tepat adalah: Penguin bisa terbang"
       },
       {
         "id": "verbal_014",
-        "pertanyaan": "Sinonim dari kata ke-14 adalah...",
+        "pertanyaan": "Sinonim dari kata IMPLISIT adalah...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Tersurat",
+          "Tersirat",
+          "Jelas",
+          "Terbuka"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_014. Jawabannya adalah A."
+        "jawaban_benar": "Tersirat",
+        "pembahasan": "Penjelasan yang tepat adalah: Tersirat"
       },
       {
         "id": "verbal_015",
-        "pertanyaan": "Antonim dari kata X-15 adalah...",
+        "pertanyaan": "Antonim dari kata MAYORITAS adalah...",
         "pilihan": [
-          "K",
-          "L",
-          "M",
-          "N"
+          "Sedikit",
+          "Banyak",
+          "Minoritas",
+          "Kecil"
         ],
-        "jawaban_benar": "K",
-        "pembahasan": "Pembahasan untuk soal verbal_015. Jawabannya adalah K."
+        "jawaban_benar": "Minoritas",
+        "pembahasan": "Penjelasan yang tepat adalah: Minoritas"
       },
       {
         "id": "verbal_016",
-        "pertanyaan": "Sinonim dari kata ke-16 adalah...",
+        "pertanyaan": "Guru : Sekolah = Dokter : ...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Pasien",
+          "Obat",
+          "Rumah Sakit",
+          "Penyakit"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_016. Jawabannya adalah A."
+        "jawaban_benar": "Rumah Sakit",
+        "pembahasan": "Penjelasan yang tepat adalah: Rumah Sakit"
       },
       {
         "id": "verbal_017",
-        "pertanyaan": "Antonim dari kata X-17 adalah...",
+        "pertanyaan": "Semua pegawai berdasi. Budi adalah pegawai. Maka...",
         "pilihan": [
-          "K",
-          "L",
-          "M",
-          "N"
+          "Budi tidak berdasi",
+          "Budi mungkin berdasi",
+          "Budi berdasi",
+          "Budi belum tentu berdasi"
         ],
-        "jawaban_benar": "K",
-        "pembahasan": "Pembahasan untuk soal verbal_017. Jawabannya adalah K."
+        "jawaban_benar": "Budi berdasi",
+        "pembahasan": "Penjelasan yang tepat adalah: Budi berdasi"
       },
       {
         "id": "verbal_018",
-        "pertanyaan": "Sinonim dari kata ke-18 adalah...",
+        "pertanyaan": "Sinonim dari kata AFIRMASI adalah...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Penolakan",
+          "Penegasan",
+          "Pertanyaan",
+          "Sanggahan"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_018. Jawabannya adalah A."
+        "jawaban_benar": "Penegasan",
+        "pembahasan": "Penjelasan yang tepat adalah: Penegasan"
       },
       {
         "id": "verbal_019",
-        "pertanyaan": "Antonim dari kata X-19 adalah...",
+        "pertanyaan": "Antonim dari kata APATIS adalah...",
         "pilihan": [
-          "K",
-          "L",
-          "M",
-          "N"
+          "Peduli",
+          "Acuh",
+          "Pasrah",
+          "Sedih"
         ],
-        "jawaban_benar": "K",
-        "pembahasan": "Pembahasan untuk soal verbal_019. Jawabannya adalah K."
+        "jawaban_benar": "Peduli",
+        "pembahasan": "Penjelasan yang tepat adalah: Peduli"
       },
       {
         "id": "verbal_020",
-        "pertanyaan": "Sinonim dari kata ke-20 adalah...",
+        "pertanyaan": "Buku : Ilmu = Obat : ...",
         "pilihan": [
-          "A",
-          "B",
-          "C",
-          "D"
+          "Apotek",
+          "Sembuh",
+          "Penyakit",
+          "Dokter"
         ],
-        "jawaban_benar": "A",
-        "pembahasan": "Pembahasan untuk soal verbal_020. Jawabannya adalah A."
+        "jawaban_benar": "Sembuh",
+        "pembahasan": "Penjelasan yang tepat adalah: Sembuh"
       }
     ]
   },
@@ -563,183 +563,183 @@
       },
       {
         "id": "visual_006",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-10?",
+        "pertanyaan": "Jika sebuah kubus dipotong menjadi dua bagian yang sama besar, bangun apa yang terbentuk?",
         "pilihan": [
-          "10",
-          "9",
-          "11",
-          "8"
+          "Balok",
+          "Prisma segitiga",
+          "Kubus kecil",
+          "Tergantung arah potongan"
         ],
-        "jawaban_benar": "10",
-        "pembahasan": "Pembahasan untuk soal visual_006. Jawabannya adalah 10."
+        "jawaban_benar": "Tergantung arah potongan",
+        "pembahasan": "Penjelasan yang tepat adalah: Tergantung arah potongan"
       },
       {
         "id": "visual_007",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-11?",
+        "pertanyaan": "Bangun datar yang memiliki 4 sisi sama panjang dan 4 sudut siku-siku adalah...",
         "pilihan": [
-          "11",
-          "10",
-          "12",
-          "9"
+          "Persegi panjang",
+          "Belah ketupat",
+          "Persegi",
+          "Jajar genjang"
         ],
-        "jawaban_benar": "11",
-        "pembahasan": "Pembahasan untuk soal visual_007. Jawabannya adalah 11."
+        "jawaban_benar": "Persegi",
+        "pembahasan": "Penjelasan yang tepat adalah: Persegi"
       },
       {
         "id": "visual_008",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-12?",
+        "pertanyaan": "Berapa banyak titik sudut pada sebuah prisma segitiga?",
         "pilihan": [
-          "12",
-          "11",
-          "13",
-          "10"
+          "5",
+          "6",
+          "8",
+          "9"
         ],
-        "jawaban_benar": "12",
-        "pembahasan": "Pembahasan untuk soal visual_008. Jawabannya adalah 12."
+        "jawaban_benar": "6",
+        "pembahasan": "Penjelasan yang tepat adalah: 6"
       },
       {
         "id": "visual_009",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-13?",
+        "pertanyaan": "Jika gambar panah menunjuk ke atas diputar 90 derajat searah jarum jam, kemana arahnya sekarang?",
         "pilihan": [
-          "13",
-          "12",
-          "14",
-          "11"
+          "Bawah",
+          "Kiri",
+          "Kanan",
+          "Atas"
         ],
-        "jawaban_benar": "13",
-        "pembahasan": "Pembahasan untuk soal visual_009. Jawabannya adalah 13."
+        "jawaban_benar": "Kanan",
+        "pembahasan": "Penjelasan yang tepat adalah: Kanan"
       },
       {
         "id": "visual_010",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-14?",
+        "pertanyaan": "Berapa jumlah rusuk pada sebuah balok?",
         "pilihan": [
-          "14",
-          "13",
-          "15",
-          "12"
+          "8",
+          "10",
+          "12",
+          "16"
         ],
-        "jawaban_benar": "14",
-        "pembahasan": "Pembahasan untuk soal visual_010. Jawabannya adalah 14."
+        "jawaban_benar": "12",
+        "pembahasan": "Penjelasan yang tepat adalah: 12"
       },
       {
         "id": "visual_011",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-15?",
+        "pertanyaan": "Bayangan cermin dari huruf 'b' adalah...",
         "pilihan": [
-          "15",
-          "14",
-          "16",
-          "13"
+          "p",
+          "d",
+          "q",
+          "b"
         ],
-        "jawaban_benar": "15",
-        "pembahasan": "Pembahasan untuk soal visual_011. Jawabannya adalah 15."
+        "jawaban_benar": "d",
+        "pembahasan": "Penjelasan yang tepat adalah: d"
       },
       {
         "id": "visual_012",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-16?",
+        "pertanyaan": "Bentuk dasar dari selimut kerucut jika dibuka adalah...",
         "pilihan": [
-          "16",
-          "15",
-          "17",
-          "14"
+          "Lingkaran",
+          "Segitiga",
+          "Juring lingkaran",
+          "Persegi"
         ],
-        "jawaban_benar": "16",
-        "pembahasan": "Pembahasan untuk soal visual_012. Jawabannya adalah 16."
+        "jawaban_benar": "Juring lingkaran",
+        "pembahasan": "Penjelasan yang tepat adalah: Juring lingkaran"
       },
       {
         "id": "visual_013",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-17?",
+        "pertanyaan": "Berapa banyak diagonal ruang pada sebuah kubus?",
         "pilihan": [
-          "17",
-          "16",
-          "18",
-          "15"
+          "4",
+          "6",
+          "8",
+          "12"
         ],
-        "jawaban_benar": "17",
-        "pembahasan": "Pembahasan untuk soal visual_013. Jawabannya adalah 17."
+        "jawaban_benar": "4",
+        "pembahasan": "Penjelasan yang tepat adalah: 4"
       },
       {
         "id": "visual_014",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-18?",
+        "pertanyaan": "Jika sebuah roda berputar 1,5 putaran, berapa derajat roda itu berputar?",
         "pilihan": [
-          "18",
-          "17",
-          "19",
-          "16"
+          "360",
+          "540",
+          "720",
+          "180"
         ],
-        "jawaban_benar": "18",
-        "pembahasan": "Pembahasan untuk soal visual_014. Jawabannya adalah 18."
+        "jawaban_benar": "540",
+        "pembahasan": "Penjelasan yang tepat adalah: 540"
       },
       {
         "id": "visual_015",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-19?",
+        "pertanyaan": "Bangun ruang yang tidak memiliki titik sudut adalah...",
         "pilihan": [
-          "19",
-          "18",
-          "20",
-          "17"
+          "Kerucut",
+          "Bola",
+          "Tabung",
+          "Bola dan Tabung"
         ],
-        "jawaban_benar": "19",
-        "pembahasan": "Pembahasan untuk soal visual_015. Jawabannya adalah 19."
+        "jawaban_benar": "Bola dan Tabung",
+        "pembahasan": "Penjelasan yang tepat adalah: Bola dan Tabung"
       },
       {
         "id": "visual_016",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-20?",
+        "pertanyaan": "Gambar yang memiliki simetri lipat sebanyak 4 adalah...",
         "pilihan": [
-          "20",
-          "19",
-          "21",
-          "18"
+          "Lingkaran",
+          "Persegi panjang",
+          "Persegi",
+          "Segitiga sama sisi"
         ],
-        "jawaban_benar": "20",
-        "pembahasan": "Pembahasan untuk soal visual_016. Jawabannya adalah 20."
+        "jawaban_benar": "Persegi",
+        "pembahasan": "Penjelasan yang tepat adalah: Persegi"
       },
       {
         "id": "visual_017",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-21?",
+        "pertanyaan": "Berapa banyak sisi pada bangun ruang prisma segi-5?",
         "pilihan": [
-          "21",
-          "20",
-          "22",
-          "19"
+          "5",
+          "6",
+          "7",
+          "10"
         ],
-        "jawaban_benar": "21",
-        "pembahasan": "Pembahasan untuk soal visual_017. Jawabannya adalah 21."
+        "jawaban_benar": "7",
+        "pembahasan": "Penjelasan yang tepat adalah: 7"
       },
       {
         "id": "visual_018",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-22?",
+        "pertanyaan": "Pola selanjutnya dari segitiga, segi empat, segi lima adalah...",
         "pilihan": [
-          "22",
-          "21",
-          "23",
-          "20"
+          "Segi enam",
+          "Segitiga",
+          "Lingkaran",
+          "Bintang"
         ],
-        "jawaban_benar": "22",
-        "pembahasan": "Pembahasan untuk soal visual_018. Jawabannya adalah 22."
+        "jawaban_benar": "Segi enam",
+        "pembahasan": "Penjelasan yang tepat adalah: Segi enam"
       },
       {
         "id": "visual_019",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-23?",
+        "pertanyaan": "Bayangan cermin dari angka '3' mirip dengan huruf...",
         "pilihan": [
-          "23",
-          "22",
-          "24",
-          "21"
+          "E",
+          "M",
+          "W",
+          "B"
         ],
-        "jawaban_benar": "23",
-        "pembahasan": "Pembahasan untuk soal visual_019. Jawabannya adalah 23."
+        "jawaban_benar": "E",
+        "pembahasan": "Penjelasan yang tepat adalah: E"
       },
       {
         "id": "visual_020",
-        "pertanyaan": "Berapa jumlah sudut pada bangun segi-24?",
+        "pertanyaan": "Berapa jumlah titik sudut pada limas segi empat?",
         "pilihan": [
-          "24",
-          "23",
-          "25",
-          "22"
+          "4",
+          "5",
+          "6",
+          "8"
         ],
-        "jawaban_benar": "24",
-        "pembahasan": "Pembahasan untuk soal visual_020. Jawabannya adalah 24."
+        "jawaban_benar": "5",
+        "pembahasan": "Penjelasan yang tepat adalah: 5"
       }
     ]
   },
@@ -811,183 +811,183 @@
       },
       {
         "id": "komputer_006",
-        "pertanyaan": "Fungsi tombol F7 pada Windows umumnya adalah...",
+        "pertanyaan": "Fungsi utama dari CPU pada komputer adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Menyimpan data",
+          "Memproses instruksi",
+          "Menampilkan grafis",
+          "Menghubungkan internet"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_006. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Memproses instruksi",
+        "pembahasan": "Penjelasan yang tepat adalah: Memproses instruksi"
       },
       {
         "id": "komputer_007",
-        "pertanyaan": "Fungsi tombol F8 pada Windows umumnya adalah...",
+        "pertanyaan": "Apa nama alat input yang digunakan untuk menggerakkan kursor?",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Monitor",
+          "Keyboard",
+          "Mouse",
+          "Printer"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_007. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Mouse",
+        "pembahasan": "Penjelasan yang tepat adalah: Mouse"
       },
       {
         "id": "komputer_008",
-        "pertanyaan": "Fungsi tombol F9 pada Windows umumnya adalah...",
+        "pertanyaan": "Shortcut untuk menyalin (copy) teks adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Ctrl + C",
+          "Ctrl + V",
+          "Ctrl + X",
+          "Ctrl + P"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_008. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Ctrl + C",
+        "pembahasan": "Penjelasan yang tepat adalah: Ctrl + C"
       },
       {
         "id": "komputer_009",
-        "pertanyaan": "Fungsi tombol F10 pada Windows umumnya adalah...",
+        "pertanyaan": "Perangkat lunak Microsoft Word termasuk dalam kategori...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Sistem Operasi",
+          "Aplikasi Pengolah Kata",
+          "Aplikasi Pengolah Angka",
+          "Antivirus"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_009. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Aplikasi Pengolah Kata",
+        "pembahasan": "Penjelasan yang tepat adalah: Aplikasi Pengolah Kata"
       },
       {
         "id": "komputer_010",
-        "pertanyaan": "Fungsi tombol F11 pada Windows umumnya adalah...",
+        "pertanyaan": "Format file standar untuk gambar yang mendukung transparansi adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "JPG",
+          "PNG",
+          "BMP",
+          "TXT"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_010. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "PNG",
+        "pembahasan": "Penjelasan yang tepat adalah: PNG"
       },
       {
         "id": "komputer_011",
-        "pertanyaan": "Fungsi tombol F12 pada Windows umumnya adalah...",
+        "pertanyaan": "Apa fungsi dari RAM dalam komputer?",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Penyimpanan permanen",
+          "Pemrosesan grafis",
+          "Penyimpanan sementara",
+          "Pendingin"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_011. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Penyimpanan sementara",
+        "pembahasan": "Penjelasan yang tepat adalah: Penyimpanan sementara"
       },
       {
         "id": "komputer_012",
-        "pertanyaan": "Fungsi tombol F1 pada Windows umumnya adalah...",
+        "pertanyaan": "Jaringan komputer global disebut...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "LAN",
+          "WAN",
+          "Internet",
+          "Intranet"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_012. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Internet",
+        "pembahasan": "Penjelasan yang tepat adalah: Internet"
       },
       {
         "id": "komputer_013",
-        "pertanyaan": "Fungsi tombol F2 pada Windows umumnya adalah...",
+        "pertanyaan": "Shortcut untuk mencetak dokumen adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Ctrl + S",
+          "Ctrl + C",
+          "Ctrl + P",
+          "Ctrl + D"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_013. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Ctrl + P",
+        "pembahasan": "Penjelasan yang tepat adalah: Ctrl + P"
       },
       {
         "id": "komputer_014",
-        "pertanyaan": "Fungsi tombol F3 pada Windows umumnya adalah...",
+        "pertanyaan": "Apa kepanjangan dari URL?",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Uniform Resource Locator",
+          "Universal Routing Link",
+          "Unified Resource Link",
+          "Uniform Routing Locator"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_014. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Uniform Resource Locator",
+        "pembahasan": "Penjelasan yang tepat adalah: Uniform Resource Locator"
       },
       {
         "id": "komputer_015",
-        "pertanyaan": "Fungsi tombol F4 pada Windows umumnya adalah...",
+        "pertanyaan": "Aplikasi browser buatan Google adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Safari",
+          "Edge",
+          "Firefox",
+          "Chrome"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_015. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Chrome",
+        "pembahasan": "Penjelasan yang tepat adalah: Chrome"
       },
       {
         "id": "komputer_016",
-        "pertanyaan": "Fungsi tombol F5 pada Windows umumnya adalah...",
+        "pertanyaan": "Satuan terkecil dalam penyimpanan data komputer adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Byte",
+          "Bit",
+          "Kilobyte",
+          "Megabyte"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_016. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Bit",
+        "pembahasan": "Penjelasan yang tepat adalah: Bit"
       },
       {
         "id": "komputer_017",
-        "pertanyaan": "Fungsi tombol F6 pada Windows umumnya adalah...",
+        "pertanyaan": "Malware yang meminta tebusan untuk membuka file yang dikunci disebut...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Virus",
+          "Trojan",
+          "Ransomware",
+          "Worm"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_017. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Ransomware",
+        "pembahasan": "Penjelasan yang tepat adalah: Ransomware"
       },
       {
         "id": "komputer_018",
-        "pertanyaan": "Fungsi tombol F7 pada Windows umumnya adalah...",
+        "pertanyaan": "Perangkat yang mengubah sinyal digital menjadi analog dan sebaliknya adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Router",
+          "Switch",
+          "Modem",
+          "Hub"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_018. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Modem",
+        "pembahasan": "Penjelasan yang tepat adalah: Modem"
       },
       {
         "id": "komputer_019",
-        "pertanyaan": "Fungsi tombol F8 pada Windows umumnya adalah...",
+        "pertanyaan": "Sistem operasi yang bersifat open-source adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Windows",
+          "macOS",
+          "Linux",
+          "iOS"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_019. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "Linux",
+        "pembahasan": "Penjelasan yang tepat adalah: Linux"
       },
       {
         "id": "komputer_020",
-        "pertanyaan": "Fungsi tombol F9 pada Windows umumnya adalah...",
+        "pertanyaan": "Penyimpanan awan (cloud storage) dari Microsoft adalah...",
         "pilihan": [
-          "Help/Rename/Etc",
-          "Copy",
-          "Paste",
-          "Cut"
+          "Google Drive",
+          "Dropbox",
+          "OneDrive",
+          "iCloud"
         ],
-        "jawaban_benar": "Help/Rename/Etc",
-        "pembahasan": "Pembahasan untuk soal komputer_020. Jawabannya adalah Help/Rename/Etc."
+        "jawaban_benar": "OneDrive",
+        "pembahasan": "Penjelasan yang tepat adalah: OneDrive"
       }
     ]
   },
@@ -1059,183 +1059,183 @@
       },
       {
         "id": "bahasa_inggris_006",
-        "pertanyaan": "Choose the correct form (Question 6): She ___ to the store.",
+        "pertanyaan": "I ___ to the cinema yesterday.",
         "pilihan": [
-          "goes",
           "go",
-          "going",
+          "goes",
+          "went",
           "gone"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_006. Jawabannya adalah goes."
+        "jawaban_benar": "went",
+        "pembahasan": "Penjelasan yang tepat adalah: went"
       },
       {
         "id": "bahasa_inggris_007",
-        "pertanyaan": "Choose the correct form (Question 7): She ___ to the store.",
+        "pertanyaan": "She is ___ than her sister.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "tall",
+          "taller",
+          "tallest",
+          "more tall"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_007. Jawabannya adalah goes."
+        "jawaban_benar": "taller",
+        "pembahasan": "Penjelasan yang tepat adalah: taller"
       },
       {
         "id": "bahasa_inggris_008",
-        "pertanyaan": "Choose the correct form (Question 8): She ___ to the store.",
+        "pertanyaan": "___ you like a cup of coffee?",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "Do",
+          "Are",
+          "Would",
+          "Will"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_008. Jawabannya adalah goes."
+        "jawaban_benar": "Would",
+        "pembahasan": "Penjelasan yang tepat adalah: Would"
       },
       {
         "id": "bahasa_inggris_009",
-        "pertanyaan": "Choose the correct form (Question 9): She ___ to the store.",
+        "pertanyaan": "The book is ___ the table.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "in",
+          "on",
+          "at",
+          "under"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_009. Jawabannya adalah goes."
+        "jawaban_benar": "on",
+        "pembahasan": "Penjelasan yang tepat adalah: on"
       },
       {
         "id": "bahasa_inggris_010",
-        "pertanyaan": "Choose the correct form (Question 10): She ___ to the store.",
+        "pertanyaan": "They have been living here ___ 2010.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "since",
+          "for",
+          "in",
+          "from"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_010. Jawabannya adalah goes."
+        "jawaban_benar": "since",
+        "pembahasan": "Penjelasan yang tepat adalah: since"
       },
       {
         "id": "bahasa_inggris_011",
-        "pertanyaan": "Choose the correct form (Question 11): She ___ to the store.",
+        "pertanyaan": "I don't have ___ money left.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "some",
+          "many",
+          "any",
+          "few"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_011. Jawabannya adalah goes."
+        "jawaban_benar": "any",
+        "pembahasan": "Penjelasan yang tepat adalah: any"
       },
       {
         "id": "bahasa_inggris_012",
-        "pertanyaan": "Choose the correct form (Question 12): She ___ to the store.",
+        "pertanyaan": "He ___ English fluently.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "speak",
+          "speaks",
+          "speaking",
+          "spoken"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_012. Jawabannya adalah goes."
+        "jawaban_benar": "speaks",
+        "pembahasan": "Penjelasan yang tepat adalah: speaks"
       },
       {
         "id": "bahasa_inggris_013",
-        "pertanyaan": "Choose the correct form (Question 13): She ___ to the store.",
+        "pertanyaan": "What ___ you doing right now?",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "do",
+          "are",
+          "is",
+          "were"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_013. Jawabannya adalah goes."
+        "jawaban_benar": "are",
+        "pembahasan": "Penjelasan yang tepat adalah: are"
       },
       {
         "id": "bahasa_inggris_014",
-        "pertanyaan": "Choose the correct form (Question 14): She ___ to the store.",
+        "pertanyaan": "If it rains, we ___ at home.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "will stay",
+          "stayed",
+          "would stay",
+          "stay"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_014. Jawabannya adalah goes."
+        "jawaban_benar": "will stay",
+        "pembahasan": "Penjelasan yang tepat adalah: will stay"
       },
       {
         "id": "bahasa_inggris_015",
-        "pertanyaan": "Choose the correct form (Question 15): She ___ to the store.",
+        "pertanyaan": "This is the ___ movie I have ever seen.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "good",
+          "better",
+          "best",
+          "most good"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_015. Jawabannya adalah goes."
+        "jawaban_benar": "best",
+        "pembahasan": "Penjelasan yang tepat adalah: best"
       },
       {
         "id": "bahasa_inggris_016",
-        "pertanyaan": "Choose the correct form (Question 16): She ___ to the store.",
+        "pertanyaan": "He usually ___ up early.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "get",
+          "gets",
+          "getting",
+          "got"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_016. Jawabannya adalah goes."
+        "jawaban_benar": "gets",
+        "pembahasan": "Penjelasan yang tepat adalah: gets"
       },
       {
         "id": "bahasa_inggris_017",
-        "pertanyaan": "Choose the correct form (Question 17): She ___ to the store.",
+        "pertanyaan": "I am looking forward to ___ you.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "see",
+          "seeing",
+          "saw",
+          "seen"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_017. Jawabannya adalah goes."
+        "jawaban_benar": "seeing",
+        "pembahasan": "Penjelasan yang tepat adalah: seeing"
       },
       {
         "id": "bahasa_inggris_018",
-        "pertanyaan": "Choose the correct form (Question 18): She ___ to the store.",
+        "pertanyaan": "___ is the capital of Indonesia?",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "Where",
+          "When",
+          "What",
+          "Who"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_018. Jawabannya adalah goes."
+        "jawaban_benar": "What",
+        "pembahasan": "Penjelasan yang tepat adalah: What"
       },
       {
         "id": "bahasa_inggris_019",
-        "pertanyaan": "Choose the correct form (Question 19): She ___ to the store.",
+        "pertanyaan": "She ___ finish her homework before dinner.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "must",
+          "can",
+          "may",
+          "might"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_019. Jawabannya adalah goes."
+        "jawaban_benar": "must",
+        "pembahasan": "Penjelasan yang tepat adalah: must"
       },
       {
         "id": "bahasa_inggris_020",
-        "pertanyaan": "Choose the correct form (Question 20): She ___ to the store.",
+        "pertanyaan": "The car ___ was stolen belongs to my friend.",
         "pilihan": [
-          "goes",
-          "go",
-          "going",
-          "gone"
+          "who",
+          "which",
+          "whom",
+          "whose"
         ],
-        "jawaban_benar": "goes",
-        "pembahasan": "Pembahasan untuk soal bahasa_inggris_020. Jawabannya adalah goes."
+        "jawaban_benar": "which",
+        "pembahasan": "Penjelasan yang tepat adalah: which"
       }
     ]
   }
